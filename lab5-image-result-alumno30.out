@@ -1,7 +1,0 @@
-REPOSITORY                 TAG         IMAGE ID       CREATED         SIZE
-ghizlane95/lab5-docker     v1          c7e791e682c5   3 minutes ago   675MB
-ubuntu                     latest      174c8c134b2a   2 weeks ago     77.9MB
-python                     3.11-slim   dd150e5400f1   3 weeks ago     131MB
-docker/welcome-to-docker   latest      c1f619b6477e   7 weeks ago     18.6MB
-hello-world                latest      d2c94e258dcb   7 months ago    13.3kB
-docker/getting-started     latest      3e4394f6b72f   12 months ago   47MB
